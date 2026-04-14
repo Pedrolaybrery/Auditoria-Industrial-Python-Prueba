@@ -1,0 +1,12 @@
+# Entornos virtuales
+venv/
+ENV/
+env/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Archivos de Excel (opcional: si no quieres subir tus reportes privados)
+# *.xlsx
+# *.xls
